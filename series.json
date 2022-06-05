@@ -1,0 +1,48 @@
+{
+    "series1": {
+        "id": "series1",
+        "year": 1987,
+        "title": "Egy r\u00e9m rendes csal\u00e1d",
+        "plot": "A sorozat f\u0151szerepl\u0151je Al Bundy, egy szerencs\u00e9tlen papucsf\u00e9rj a kor\u00e1bban sikeres k\u00f6z\u00e9piskolai amerikaifutball-j\u00e1t\u00e9kos, aki n\u0151icip\u0151-bolti elad\u00f3k\u00e9nt dolgozik.",
+        "cover": "https:\/\/upload.wikimedia.org\/wikipedia\/hu\/thumb\/f\/f6\/MWC_1.jpg\/375px-MWC_1.jpg",
+        "episodes": {
+            "1": {
+                "id": 1,
+                "date": "1987-04-05",
+                "title": "\u00daj szomsz\u00e9dok",
+                "plot": "\u00daj szomsz\u00e9dok k\u00f6lt\u00f6znek Al \u00e9s Peggy mell\u00e9, akiknek l\u00e1tsz\u00f3lag t\u00f6k\u00e9letes a h\u00e1zass\u00e1guk, a Bundyk azonban gondoskodnak arr\u00f3l, hogy a harm\u00f3nia gyorsan a m\u00falt\u00e9 legyen.",
+                "rating": 7.8
+            },
+            "2": {
+                "id": 2,
+                "date": "1987-04-12",
+                "title": "Peggy \u00e9s a stewardesek",
+                "plot": "Marcy aj\u00e1nl\u00e1s\u00e1ra Peggy egy \u00faj \u00e9trendet szeretne bevezetni otthon, aminek Al nagyon nem \u00f6r\u00fcl.",
+                "rating": 6.5
+            }
+        }
+    },
+    "series2": {
+        "id": "series2",
+        "year": 2021,
+        "title": "Nyerd meg az \u00e9leted",
+        "plot": "456 anyagi probl\u00e9m\u00e1kkal k\u00fcszk\u00f6d\u0151 ember megh\u00edv\u00e1st kap egy j\u00e1t\u00e9kba, melynek d\u00edja 45,6 milli\u00e1rd d\u00e9l-koreai von.",
+        "cover": "https:\/\/flixpatrol.com\/runtime\/cache\/files\/posters\/d\/ddlemu3ez0pgg93k2svnlcjcsve.webp",
+        "episodes": {
+            "1": {
+                "id": "1",
+                "date": "2021-09-17",
+                "title": "Piros l\u00e1mpa, z\u00f6ld l\u00e1mpa",
+                "plot": "Szong Gihun szerencs\u00e9tlen \u00e9letet \u00e9l, r\u00e1ad\u00e1sul egy csom\u00f3 p\u00e9nzzel tartozik uzsor\u00e1soknak is. Egyik nap a metr\u00f3\u00e1llom\u00e1son egy rejt\u00e9lyes, j\u00f3l \u00f6lt\u00f6z\u00f6tt f\u00e9rfi egy ttakcsi nev\u0171 j\u00e1t\u00e9kra invit\u00e1lja \u0151t, amellyel nyer is sz\u00e1zezer vont...",
+                "rating": 8.9
+            },
+            "2": {
+                "id": "2",
+                "date": "2021-09-17",
+                "title": "Pokol",
+                "plot": "Csak 201 j\u00e1t\u00e9kos maradt \u00e9letben \u00e9s k\u00f6z\u00fcl\u00fck is t\u00f6bben k\u00f6ny\u00f6r\u00f6gnek, hadd t\u00e1vozhassanak. Ez azonban lehetetlen, kiv\u00e9ve ha a j\u00e1t\u00e9kosok t\u00f6bbs\u00e9ge a befejez\u00e9s mellett voksol..",
+                "rating": 7.2
+            }
+        }
+    }
+}

@@ -1,0 +1,139 @@
+/* Osszes olaldra ervenyes*/
+html {
+    margin: 1.5rem;
+}
+
+nav {
+    margin-top: -1rem !important;
+}
+
+
+@media screen and (max-width: 992px) {
+    html {
+        text-align: center;
+    }
+
+    
+
+}
+
+.cim {
+    text-align: center;
+    font-weight: bolder;
+    color: darkblue;
+    display: inline !important;
+    font-size: xx-large;
+}
+
+.cim:hover {
+    color: darkblue;
+}
+
+
+/* Navbar*/
+
+.navbar {
+    margin-bottom: 3rem;
+}
+
+/* Navbar gombok*/
+.login {
+    border-color: darkblue;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 0;
+}
+
+.logout {
+    border-color: darkblue;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 0;
+}
+
+
+
+@media screen and (max-width: 992px) {
+    
+  }
+
+.login:hover {
+    border-color: darkblue;
+    color: darkblue;
+    background-color: #E8F9FD;
+}
+
+.register {
+    border-color: darkblue;
+    color: white;
+    background-color: darkblue;
+    font-weight: bold;
+    border-radius: 0;
+}
+
+.register:hover {
+    border-color: darkblue;
+    color: white;
+    background-color: darkblue;
+    background-color: blue;
+}
+
+
+.regbtn:hover {
+    border-color: darkblue;
+    color: white;
+    background-color: darkblue;
+    background-color: blue;
+}
+
+
+/* Form*/
+
+.form-horizontal{
+    display:block;
+    margin:0 auto;
+    width: 50%;
+}
+
+.form-group{
+    display:block;
+    margin:0 auto;
+    
+}
+
+.formcim {
+    margin-top: 1rem;
+}
+
+.hibauzenet {
+    height: 0.5rem;
+    color: red;
+}
+
+/* Admin gombok */
+
+.basicbutton {
+    border-color: darkblue;
+    color: darkblue;
+    font-weight: bold;
+    border-radius: 0;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    margin-top: 1rem;
+}
+
+.basicbutton:hover {
+    border-color: darkblue;
+    color: darkblue;
+    background-color: #E8F9FD;
+}
+
+/* Register oldal */
+
+.registererrorslist {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center;
+}
+
+/* Reszletezo oldal */

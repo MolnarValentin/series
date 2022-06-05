@@ -1,0 +1,68 @@
+{
+    "userid3": {
+        "id": "userid3",
+        "username": "admin",
+        "email": "admin",
+        "password": "admin",
+        "watched": {
+            "series1": 1
+        }
+    },
+    "userid1": {
+        "id": "userid1",
+        "username": "user1",
+        "email": "email1",
+        "password": "asd",
+        "watched": {
+            "series1": 2,
+            "series2": 0
+        }
+    },
+    "userid2": {
+        "id": "userid2",
+        "username": "user2",
+        "email": "email1",
+        "watched": {
+            "series1": 1,
+            "series4": 6
+        },
+        "password": "123"
+    },
+    "6299456f3f43e": {
+        "username": "user1",
+        "email": "asd@asd.hu",
+        "password": "asd",
+        "id": "6299456f3f43e"
+    },
+    "62994cafe97f0": {
+        "username": "user1",
+        "email": "asd@asd.com",
+        "password": "123",
+        "id": "62994cafe97f0"
+    },
+    "629cd0bde3172": {
+        "username": "123",
+        "email": "123@123.com",
+        "password": "123",
+        "id": "629cd0bde3172"
+    },
+    "629cd0e8dcd01": {
+        "id": "629cd0e8dcd01",
+        "username": "1234",
+        "email": "1234@1234.com",
+        "password": "1234",
+        "watched": {
+            "series1": 2
+        }
+    },
+    "629ce5bb81fe1": {
+        "id": "629ce5bb81fe1",
+        "username": "alma",
+        "email": "alma@alma.hu",
+        "password": "alma",
+        "watched": {
+            "series1": 1,
+            "series2": 1
+        }
+    }
+}
